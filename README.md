@@ -175,6 +175,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - From Understanding to Utilization: A Survey on Explainability for Large Language Models, 2024.01 [[paper]](https://arxiv.org/pdf/2401.12874.pdf)
 - Awesome Attention Heads, 2024.07 [[project]](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)
 - Internal Consistency and Self-Feedback in Large Language Models: A Survey, 2024.07 [[paper]](https://arxiv.org/pdf/2407.14507)
+- Attention Heads of Large Language Models: A Survey, 2024.09 [[paper]](https://arxiv.org/pdf/2409.03752)
   
 ### Fairness in LLM
 - A Survey on Fairness in Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.10149)
