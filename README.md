@@ -33,6 +33,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Tool Using of LLM](#tool-using-of-llm)
     - [Calibration of LLM](#calibration-of-llm)
     - [Agent of LLM](#agent-of-llm)
+    - [Role-play of LLM](#role-play-of-llm)
     - [Vulnerabilities of LLM](#vulnerabilities-of-llm)
     - [Efficiency of LLM](#efficiency-of-llm)
     - [Data of LLM](#data-of-llm)
@@ -225,6 +226,11 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 - Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, 2023.12 [[paper]](https://arxiv.org/pdf/2312.11970.pdf)
 - Large Multimodal Agents: A Survey, 2024.02 [[paper]](https://arxiv.org/pdf/2402.15116)[[project]](https://github.com/jun0wanan/awesome-large-multimodal-agents)
+
+### Role-play of LLM
+- The Oscars of AI Theater: A Survey on Role-Playing with Language Models, 2024.09 [[paper]](https://arxiv.org/pdf/2407.11484)[[project]](https://github.com/nuochenpku/Awesome-Role-Play-Papers)
+- Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization, 2024.06 [[paper]](https://arxiv.org/pdf/2406.01171)[[project]](https://github.com/MiuLab/PersonaLLM-Survey)
+- From Persona to Personalization: A Survey on Role-Playing Language Agents, 2024.04 [[paper]](https://arxiv.org/pdf/2312.11970.pdf)
 
 ### Vulnerabilities of LLM
 - Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks, 2023.10 [[paper]](https://arxiv.org/pdf/2310.10844.pdf)
