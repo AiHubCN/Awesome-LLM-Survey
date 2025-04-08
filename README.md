@@ -21,7 +21,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
     - [Hallucination in LLM](#hallucination-in-llm)
     - [Compression for LLM](#compression-for-llm)
     - [Evaluation of LLM](#evaluation-of-llm)
-    - [Reasoning with LLM](#reasoning-with-llm)
+    - [Reasoning LLM](#reasoning-with-llm)
     - [Explainability for LLM](#explainability-for-llm)
     - [Fairness in LLM](#fairness-in-llm)
     - [Graph for LLM](#graph-for-llm)
@@ -166,8 +166,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Reasoning with LLM
 - Reasoning with Language Model Prompting: A Survey, 2022.12 [[paper]](https://arxiv.org/abs/2212.09597)[[project]](https://github.com/zjunlp/Prompt4ReasoningPapers)
-
 - A Survey of Reasoning with Foundation Models, 2023.12 [[papaer]](https://arxiv.org/pdf/2312.11562.pdf)[[project]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
+- From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[[paper]](https://arxiv.org/pdf/2502.17419)[[project]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
+
 
 ### Explainability for LLM
 - Explainability for Large Language Models: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.01029)
