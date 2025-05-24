@@ -267,7 +267,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 ### Visual LLM
-- A Survey on Bridging VLMs and Synthetic Data. 2025,05 [[paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174741263.32891073/v1)[[project]](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)
+- A Survey on Bridging VLMs and Synthetic Data. 2025,05 [[paper]](https://openreview.net/pdf?id=ThjDCZOljE)[[project]](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data)
 - A Survey on Benchmarks of Multimodal Large Language Models. 2024,08 [[paper]](https://arxiv.org/pdf/2408.08632)[[project]](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey)
 - The (R)Evolution of Multimodal Large Language Models: A Survey, 2024,02 [[paper]](https://arxiv.org/abs/2402.12451)
 - Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [[paper]](https://arxiv.org/abs/2311.08172)[[project]](https://github.com/palchenli/VL-Instruction-Tuning)
