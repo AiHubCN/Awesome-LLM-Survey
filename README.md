@@ -158,6 +158,8 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - Hallucination of Multimodal Large Language Models: A Survey, 2024.04 [[paper]](https://arxiv.org/pdf/2404.18930)
 
 ### Compression for LLM
+
+- **OneComp** (arXiv 2026) — PTQ pipeline for LLMs. [[Paper](https://arxiv.org/abs/2603.28845)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
 - A Survey on Model Compression for Large Language Models, 2023.08 [[paper]](https://arxiv.org/abs/2308.07633)
 - A Comprehensive Survey of Compression Algorithms for Language Models, 2024.01 [[paper](https://arxiv.org/pdf/2401.15347.pdf)]
 
