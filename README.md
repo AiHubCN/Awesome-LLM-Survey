@@ -229,6 +229,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [[paper]](https://arxiv.org/abs/2309.07864)[[project]](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 - Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, 2023.12 [[paper]](https://arxiv.org/pdf/2312.11970.pdf)
 - Large Multimodal Agents: A Survey, 2024.02 [[paper]](https://arxiv.org/pdf/2402.15116)[[project]](https://github.com/jun0wanan/awesome-large-multimodal-agents)
+- What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification, 2026.06 [[paper]](https://www.researchgate.net/publication/406952713)
 
 ### Role-play of LLM
 - The Oscars of AI Theater: A Survey on Role-Playing with Language Models, 2024.09 [[paper]](https://arxiv.org/pdf/2407.11484)[[project]](https://github.com/nuochenpku/Awesome-Role-Play-Papers)
